@@ -1,2 +1,3 @@
 # DSandAlg
-s=
+- run `npm install`
+- run `npm start`
